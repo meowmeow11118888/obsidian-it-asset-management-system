@@ -41,39 +41,6 @@ Our solution offers:
 - [Obsidian](https://obsidian.md/) (Latest Version)
 - [Dataview Plugin](https://github.com/blacksmithgu/obsidian-dataview)
 
-## Installation
-
-1. Install Obsidian Desktop
-   ```
-   # macOS
-   brew install --cask obsidian
-
-   # Windows
-   winget install Obsidian.Obsidian
-
-   # Linux
-   # Download from official website
-   ```
-
-2. Install Dataview Plugin
-   - Open Obsidian
-   - Go to Settings > Community Plugins
-   - Enable Community Plugins
-   - Search for "Dataview" and install
-
-3. Clone the Repository
-   ```bash
-   git clone https://github.com/meowmeow11118888/obsidian-it-asset-management.git
-   ```
-
-4. Open as Obsidian Vault
-   - In Obsidian, click "Open folder as vault"
-   - Select the cloned repository folder
-
-### Recommended Plugin Settings
-- Enable Wikilinks
-- Enable Dataview Query Execution
-
 ## Project Structure
 
 ```
